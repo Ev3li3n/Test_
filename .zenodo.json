@@ -11,20 +11,5 @@
 
     "title": "I wanna test this",
 
-    "related_identifiers": [
-        {
-            "scheme": "doi",
-            "identifier": "10.1234/software.paper.5678",
-            "relation": "isDocumentedBy",
-            "resource_type": "publication-article"
-        }
-    ],
-
     "keywords": ["Cats", "Laser", "Behavior"],
-
-    "communities": [
-        {"identifier": "software-cats"}
-    ],
-
-    "grants": [{"id":"777541"}]
 }
