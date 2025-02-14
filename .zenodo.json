@@ -1,37 +1,20 @@
 {
+    "title": "test title",
+    "description": "test description",
     "creators": [
         {
-            "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
-            "name": "Field, Gar"
-        },
-        {
-            "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
-            "name": "Cat, Felix"
+            "name": "Vanderhaeghe, Floris",
+            "affiliation": "Research Institute for Nature and Forest",
+            "orcid": "0000-0002-6378-6229"
         }
     ],
-
-    "description": "Miauw miauw miauw miauw miauw miauw",
-
-    "license": "Apache-2.0",
-
-    "title": "Red-Dot: ML-powered laser vector detection",
-
-    "related_identifiers": [
-        {
-            "scheme": "doi",
-            "identifier": "10.1234/software.paper.5678",
-            "relation": "isDocumentedBy",
-            "resource_type": "publication-article"
-        }
-    ],
-
-    "keywords": ["Cats", "Laser", "Behavior"],
-
-    "communities": [
-        {"identifier": "software-cats"}
-    ],
-
-    "grants": [{"id":"777541"}]
+    "keywords": [
+        "T",
+        "my strange keyword",
+        "another"
+    ]
+    "license": "GPL-3.0",
+    "upload_type": "software",
+    "access_right": "open",
+    "version": "0.14.0",
 }
