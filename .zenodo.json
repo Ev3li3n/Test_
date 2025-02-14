@@ -12,6 +12,8 @@
         }
     ],
 
+    "description": "Miauw miauw miauw miauw miauw miauw"
+
     "license": "Apache-2.0",
 
     "title": "Red-Dot: ML-powered laser vector detection",
