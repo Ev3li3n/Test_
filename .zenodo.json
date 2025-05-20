@@ -1,8 +1,10 @@
 {
     "title": "test title",
     "description": "test description",
-    
     "version": "0.14.0",
+    "license": "GPL-3.0",
+    "upload_type": "software",
+    "access_right": "open",
     "creators": [
         {
             "name": "Dhollander, Evelien",
@@ -14,8 +16,5 @@
         "T",
         "my strange keyword",
         "another"
-    ],
-    "license": "GPL-3.0",
-    "upload_type": "software",
-    "access_right": "open"
+    ]
 }
